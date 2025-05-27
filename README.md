@@ -101,6 +101,7 @@ The dataset is based on a public churn dataset and enhanced with simulated CRM f
 
 ## Files
 
+- `Churn_Modeling.csv`: Raw Dataset
 - `churn_modeling_pipeline.ipynb`: Model training and analysis
 - `Final_Churn_Data.csv`: Enriched dataset for dashboard
 - `Tableau_Dashboard.twbx`: Interactive churn dashboard
